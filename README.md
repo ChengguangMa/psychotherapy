@@ -1566,3 +1566,13 @@ AS、CPTSD、 PTSD、ADHD存在密切关联。
 |原始思维||\[法\] 列维-布留尔|商务印书馆|丁由|1981|思想启发|
 |小王子||\[法\] 圣埃克苏佩里|人民文学出版社|马振骋|2003-8|思想启发|
 |中国哲学简史||冯友兰|北京大学出版社|涂又光|2010-8|思想启发|
+## 写在最后
+### License
+
+之所以将此内容置于GitHub，是因为考虑到了CPTSD和AS在开发者群体中的多发性。本仓库的内容不是将网上或书上的资料随意拼凑而来，除了极少部分引文（会同时注明出处），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
+
+转载文章请在开头明显处标明该页面地址，公众号等其它转载请联系 macggg@163.com。
+
+Logo：[logomakr](https://logomakr.com/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
