@@ -8,8 +8,6 @@ Self-Help Healing for Asperger's Syndrome & Complex PTSD: From the Perspective o
 
 # <a id="n22G-1707676089687"></a>目录
 
-## [前言](#_Toc168574589)
-
 ## [前言](#_toc174009631)
 
 ### [自助的可行性](#_toc174009632)
