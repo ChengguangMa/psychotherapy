@@ -1290,9 +1290,10 @@ A和B新相识，陌生但投缘。A对B的某个表述感到困惑，提出了�
 
 所谓过度的认知加工也叫“过度思考”，指的是认知过程充斥了特异性的、局限性的、情绪化的经验和过度精细却不可靠的认知图式，使主体对事物的认知在变得更具体的同时也更草率、更狭隘、更自以为是。事实上，即使避开过度思考，体会也仍然被主体的生活经验所限制，但它体现了一个有智慧的人在实时互动中能实现的最大程度的平衡。只有重视体会才能培养出良好的社交直觉。良好的社交直觉有助于预判风险，免疫创伤。
 
-| A felt sense is not a mental experience but a physical one. Physical. A bodily awareness of a situation or person or event. An internal aura that encompasses everything you feel and know about the given subject at a given time—encompasses it and communicates it to you all at once rather than detail by detail.  Eugene T. Gendlin 体会不是一种精神体验，而是一种身体体验。它是对情况、人或事件的在身体层面上的觉知。它涵盖了你在特定时刻对特定对象的所有感觉和了解——它涵盖了它们，并立即将其传达给你，而不是通过各种细节一点一点地告诉你。 |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  ——尤金·T·简德林                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+> A felt sense is not a mental experience but a physical one. Physical. A bodily awareness of a situation or person or event. An internal aura that encompasses everything you feel and know about the given subject at a given time—encompasses it and communicates it to you all at once rather than detail by detail.  
+Eugene T. Gendlin
+
+> 体会不是一种精神体验，而是一种身体体验。它是对情况、人或事件的在身体层面上的觉知。它涵盖了你在特定时刻对特定对象的所有感觉和了解——它涵盖了它们，并立即将其传达给你，而不是通过各种细节一点一点地告诉你。——尤金·T·简德林
 
 关于聚焦理论，可参考文末相关资料。
 
